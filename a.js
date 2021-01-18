@@ -1,0 +1,5 @@
+console.log('你的爱好是什么')
+console.log("爱好是抓鸭子")
+console.log('抓几只')
+consloe.log('抓十只')
+console.log("嘎嘎嘎嘎嘎嘎")
